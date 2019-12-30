@@ -2,6 +2,7 @@
 デバイスドライバを作成しLEDを点灯させる
 
 # 動作環境
+| ------------ | ----------------------------- |
 | Raspberry Pi | Raspberry Pi 3 Model B        |
 | OS           | RaspbianGNU/Linux 10(buster)  |
 | kernel       | Linux raspberrypi 4.19.75-v7+ |
