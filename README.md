@@ -18,3 +18,12 @@ $ echo <番号> /dev/myled0
 
 # デモ動画
 https://youtu.be/dhtbk4r5_-I
+
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
